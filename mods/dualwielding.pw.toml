@@ -1,0 +1,13 @@
+name = "DualWielding"
+filename = "dualwielding-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9ed95f0770776d8cc2d6c2f812e7195f49dcee0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834752
+project-id = 480911

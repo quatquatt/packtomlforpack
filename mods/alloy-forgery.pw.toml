@@ -1,0 +1,13 @@
+name = "Alloy Forgery"
+filename = "wraith-alloy-forgery-2.0.16+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbfb26a4dc51396bf6222ff5bb60f00655990280"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942534
+project-id = 438718

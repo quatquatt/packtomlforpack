@@ -1,0 +1,13 @@
+name = "Lush Leaves"
+filename = "Lush Leaves.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6fc7aa4198dc8c49495efdb86ca21020b1deb81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4049389
+project-id = 566175

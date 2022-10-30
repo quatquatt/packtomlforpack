@@ -1,0 +1,13 @@
+name = "Mythic Metals Decorations"
+filename = "mythicmetals-decorations-0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3e02dc4ed27efd336141bdded31f1d210dddce8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4017046
+project-id = 552128
