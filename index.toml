@@ -1843,11 +1843,6 @@ hash = "6e37a53e0cc21c40bc27956d667189c278cefe61dab2a798fd4ba39bbf741687"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "be7cd5bb98612bff05b734b897003c56dca3d943901fc4d59f2b1a86a5ee0771"
 metafile = true
@@ -2059,7 +2054,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.pw.toml"
-hash = "1086eabdc07b24a0cdb8ef7260987e102cd37f72c189078a27a7ca5b1ada6cdf"
+hash = "9af5e9f49985cf0050223949c53e0c00709da9df0c301748b2b6747ead13ec7a"
 metafile = true
 
 [[files]]
@@ -2094,7 +2089,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "06ece6978635e078627bd645f5f8d428686a0e02bb879efb0f0fbcb592ec9249"
+hash = "ee7c66484915dd19c496411f801934b98bdacc979b6d604a35f22f6a2a3eac77"
 metafile = true
 
 [[files]]
@@ -2319,7 +2314,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "4e50d4f19c3ae1772828d51987c36625d033c81ce233b4962bfbf4358bfbaf04"
+hash = "fd699d195d962817335e751be99efd098e29176e18b9c8dacbe1fd0fd02e0291"
 metafile = true
 
 [[files]]
@@ -2769,7 +2764,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "cb1625a16895d747ddc457bf2194a1ca820470197bf6fbe21f83621145beae2e"
+hash = "603c066489f25cbee185ae1af9f976e2f271d3bfa9b3d7a2b6aa44496804b036"
 metafile = true
 
 [[files]]
@@ -2795,11 +2790,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "c1aad6f27577f96e64bdb88a04377e018ff9c92327cf9ad30a263d988e9596f3"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "13a87b21bb54900af31364fed22b2c69a178ffaa490d5f6bb84bbf637df25077"
 metafile = true
 
 [[files]]
@@ -2864,7 +2854,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "47949eb158781117016c10dba8c04a7b8876fa526e26c67c46a3ace47e3c4bec"
+hash = "46a5a0f6cad6913976ce73d5e0ad5303b59908c98d2ab77eb3f19791ef5a009d"
 
 [[files]]
 file = "resourcepacks/Fancy,+GUI+Overhaul+v0.1.2.7.zip"
@@ -2902,6 +2892,10 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip"
 hash = "127da40e68b823779b14c9de8b882552c9161bec8aa0dfcf06f0dc2ac3799e17"
+
+[[files]]
+file = "shaderpacks/Solas+V1.1.zip"
+hash = "92285defc5439241f08dcff0406ce93c282d46ede0cf255ce62cb23d63f7c93a"
 
 [[files]]
 file = "tbj/3.png"
