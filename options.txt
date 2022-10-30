@@ -117,7 +117,7 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.advancedcompass.openconfig:key.keyboard.p
 key_key.advancedcompass.newwaypoint:key.keyboard.n
-key_key.advancedcompass.openwaypointlist:key.keyboard.]
+key_key.advancedcompass.openwaypointlist:key.keyboard.right.bracket
 key_key.adventurez.activatearmor:key.keyboard.minus
 key_key.adventurez.dragonflydown:key.keyboard.enter
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
