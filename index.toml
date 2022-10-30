@@ -2731,11 +2731,6 @@ hash = "603c066489f25cbee185ae1af9f976e2f271d3bfa9b3d7a2b6aa44496804b036"
 metafile = true
 
 [[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
-metafile = true
-
-[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "b3eaffdc95ae03e86292cb469c0048f01c2a2e8cef9e16b7595d2a77f18b3757"
 metafile = true
