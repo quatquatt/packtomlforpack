@@ -13,7 +13,7 @@
   "hide_overlapped": true,
   "auto_death_waypoint": false,
   "hide_behind": false,
-  "show_mode": "ALWAYS_ON",
+  "show_mode": "BOTH_HANDS",
   "coordinates_mode": "OFF",
   "generation_type": "HEAD_FIRST",
   "mod_w_p_type": "SHOW_ENABLED",
