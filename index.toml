@@ -1766,11 +1766,7 @@ hash = "1bafd85c9972ef2d7e7a68ceb60609f6cf9accb2170681a34f9773cb18469b56"
 
 [[files]]
 file = "config/waveycapes.json"
-<<<<<<< HEAD
-hash = "70b8b6aa65ee8556e07e0be67d3505143b65879c58ccc5b7e480112735a5837f"
-=======
 hash = "f56a38d71c9212f81746bd93442939843ecb7db6f74f04b0626f82dfc2ad26fc"
->>>>>>> 5aab89d09c456976688bad45ad57046dad1d6532
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -1783,6 +1779,10 @@ hash = "18716b3c9b65bee9dc7ca97de52ec2b45a8eb1d80fa81448193e0d854f291c51"
 [[files]]
 file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "index.toml.bak"
+hash = "a8809186adb8ec103c953291f3835eef35140296d9e78ce993cda4409a8bdd45"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
