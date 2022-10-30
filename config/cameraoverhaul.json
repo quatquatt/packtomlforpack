@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "strafingRollFactor": 1.0,
   "strafingRollFactorWhenFlying": -1.0,
   "strafingRollFactorWhenSwimming": -1.0,
