@@ -854,7 +854,7 @@ hash = "98d609c053f65c30fb91e0b6936ed88a3d0275916a0031f0f5a158d8fd28fe00"
 
 [[files]]
 file = "config/advancedcompass.json"
-hash = "89f918744b84ce421fb15ca9c15ec6579ceea00a944b59176a3a8344d1d9f7d4"
+hash = "01e069110c2a260192ae6fa0e48614f5ac2e27f25c96dc1eb76f95f5a7b5c10c"
 
 [[files]]
 file = "config/advancementplaques-common.toml"
@@ -1086,7 +1086,7 @@ hash = "0afe906fa7cd767345e04c5ecc40e5e148fcc50f920abe679ad424af2a7374c9"
 
 [[files]]
 file = "config/cameraoverhaul.json"
-hash = "1605ce71369f060ad1afc3d61b2e33eb628e341d1d25d2cc5bcec269e579a5be"
+hash = "e5e9672d0ca5e129c667e870ac6cf4b77543f78325ff8a21b04a640dae784bd1"
 
 [[files]]
 file = "config/capybara.json"
@@ -1118,7 +1118,7 @@ hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
 
 [[files]]
 file = "config/citresewn.json"
-hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+hash = "9296a63d51501dece25b38c5dc96c61c7999576ee0cb2429efe1689ada36235d"
 
 [[files]]
 file = "config/cleardespawn.toml"
@@ -1150,7 +1150,7 @@ hash = "a17f84d0c9a37e9ea618679133dc4498c270753517e12974cb9e07611a716201"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "c2971548acf6060b22141069cbc1cf29e17892ead7cc1d2b3e75dac38b03a1a0"
+hash = "ac424b5b374dd3766302b1bf093695dac0052bc565342eacf816dd30a4799584"
 
 [[files]]
 file = "config/creeperoverhaul.json"
@@ -1254,7 +1254,7 @@ hash = "02294238adc9200c7d3cf568666c4b903dd2a9c35f62edf13b38fa93fc6088e9"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "fdcc132bed80fda5839bce2d2dac8d14e3e601a10605388a88cc2bd1d694330a"
+hash = "ea4dd0f9631397af94c742376b45bcc1c5b61662d3fac2b6743717004ff3a364"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1498,7 +1498,7 @@ hash = "198f4179286b1a600e80984f2bb79cddbb10a80c19607dbfaa9e1a42bbee9447"
 
 [[files]]
 file = "config/herdspanic.json5"
-hash = "5c9b756762276bf9478ed1edb3d958579c99bd6cda0c8c876612cf04e19987a1"
+hash = "de038164e54956c8e5454ad11fe853335da70c77996c4e593d213be7c4cbad87"
 
 [[files]]
 file = "config/highlighter-common.toml"
@@ -1626,7 +1626,7 @@ hash = "2f5a607f8a65b79fd212e07200021395633337f54452b76ae6277ce922a1809c"
 
 [[files]]
 file = "config/pling.json"
-hash = "405c250d23760fbc3c64d8023f07fe030cfed3b65ed74f5bf4c122c1a5953e76"
+hash = "77d4828b69ba43b7e0f89c61b40ca3014c48babe36205da7a03c1dbd680a1751"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -1766,19 +1766,7 @@ hash = "1bafd85c9972ef2d7e7a68ceb60609f6cf9accb2170681a34f9773cb18469b56"
 
 [[files]]
 file = "config/waveycapes.json"
-hash = "f56a38d71c9212f81746bd93442939843ecb7db6f74f04b0626f82dfc2ad26fc"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "e76989cc00924c29fce13623d0d40e3fb9e5dfc6920736eb35cd427d53f1136d"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "11d3226f02eaadbb769e2bf3715a969691c964e4fee521da0e081ce64790438c"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+hash = "70b8b6aa65ee8556e07e0be67d3505143b65879c58ccc5b7e480112735a5837f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -2054,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.pw.toml"
-hash = "9af5e9f49985cf0050223949c53e0c00709da9df0c301748b2b6747ead13ec7a"
+hash = "5f681f7ead40e5835277b8589297a402d13da79681ff5aa2601abbf2fd910a00"
 metafile = true
 
 [[files]]
@@ -2314,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "fd699d195d962817335e751be99efd098e29176e18b9c8dacbe1fd0fd02e0291"
+hash = "b6b858a4c61487876ac82d9cd68505a6958ba69a5e8f24192ecd9e72083982eb"
 metafile = true
 
 [[files]]
@@ -2704,7 +2692,7 @@ metafile = true
 
 [[files]]
 file = "mods/stronger-snowballs.pw.toml"
-hash = "911809fbe2377f72c99f800e6f68e99139ea6f1cc4d782fe8b66c63c5748ac24"
+hash = "4003e0ed57fce8884cb8db43a3e3f98438b9ebdf5d242ef39fd9233ae3b12529"
 metafile = true
 
 [[files]]
@@ -2854,7 +2842,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "46a5a0f6cad6913976ce73d5e0ad5303b59908c98d2ab77eb3f19791ef5a009d"
+hash = "711b152da00d4812b9d7b1d74a46d9f5c7ecdf91e6cf44e08b54845dcecf161c"
 
 [[files]]
 file = "resourcepacks/Fancy,+GUI+Overhaul+v0.1.2.7.zip"
