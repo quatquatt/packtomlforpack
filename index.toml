@@ -2663,11 +2663,6 @@ hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "2e2e572b27d72c75407f1d58486284bd689a6049f7db07b4d2e47b4d20542ff1"
-metafile = true
-
-[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
