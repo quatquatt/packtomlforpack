@@ -1765,10 +1765,6 @@ file = "config/waila/waila_plugins.json"
 hash = "1bafd85c9972ef2d7e7a68ceb60609f6cf9accb2170681a34f9773cb18469b56"
 
 [[files]]
-file = "config/waveycapes.json"
-hash = "f56a38d71c9212f81746bd93442939843ecb7db6f74f04b0626f82dfc2ad26fc"
-
-[[files]]
 file = "config/xaeroworldmap.txt"
 hash = "d1eaefd0c010a29f4ad0ba0ce35cc885b63485bcb1e472670ff5211943f78afa"
 
