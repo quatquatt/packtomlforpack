@@ -1769,18 +1769,6 @@ file = "config/waveycapes.json"
 hash = "f56a38d71c9212f81746bd93442939843ecb7db6f74f04b0626f82dfc2ad26fc"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "e76989cc00924c29fce13623d0d40e3fb9e5dfc6920736eb35cd427d53f1136d"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "11d3226f02eaadbb769e2bf3715a969691c964e4fee521da0e081ce64790438c"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
-
-[[files]]
 file = "config/xaeroworldmap.txt"
 hash = "d1eaefd0c010a29f4ad0ba0ce35cc885b63485bcb1e472670ff5211943f78afa"
 
