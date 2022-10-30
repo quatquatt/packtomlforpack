@@ -1777,10 +1777,6 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
-file = "index.toml.bak"
-hash = "a8809186adb8ec103c953291f3835eef35140296d9e78ce993cda4409a8bdd45"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
