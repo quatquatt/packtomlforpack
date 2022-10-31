@@ -10,7 +10,7 @@ hash = "477c22b3d0ff2a6c2cac6ceefbb6c00ee44bafb4a0a52c811f191031931f6d17"
 
 [[files]]
 file = "Makefile"
-hash = "11be4afed0ad3c04f1bfe5c44a80a25368be75268f209cae242467e30f922daa"
+hash = "72f712c533c7c7b5a3cbaaa86d339ee7ce473d6b012e5df729c13fe4b02161df"
 
 [[files]]
 file = "config/AdvancedCompass/mobs/adventurez/amethyst_golem.png"
@@ -3314,11 +3314,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "b8dbf8e961a644e4ace34f7d85f34a762b7eba9f585c811ed9f82bdd8f63c2c3"
-metafile = true
-
-[[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "d6fcfef8a50bf79dd7b46de4015eef2d0e899b2d3542f5b356a28fa7f9e48db2"
 metafile = true
 
 [[files]]
