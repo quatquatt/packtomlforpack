@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitpod.Dockerfile"
+hash = "477c22b3d0ff2a6c2cac6ceefbb6c00ee44bafb4a0a52c811f191031931f6d17"
+
+[[files]]
+file = ".gitpod.yml"
+hash = "477c22b3d0ff2a6c2cac6ceefbb6c00ee44bafb4a0a52c811f191031931f6d17"
+
+[[files]]
+file = "Makefile"
+hash = "11be4afed0ad3c04f1bfe5c44a80a25368be75268f209cae242467e30f922daa"
+
+[[files]]
 file = "config/AdvancedCompass/mobs/adventurez/amethyst_golem.png"
 hash = "52984fe77e3c8dcddf6f79f4edd7c2e30d574c21d96054c1212e751011809811"
 preserve = true
@@ -3308,6 +3320,10 @@ file = "resourcepacks/unity.pw.toml"
 hash = "c94d166cdc40f437bdb36d1f2d07991de077f0a95d00a080835a35f470781c6c"
 metafile = true
 preserve = true
+
+[[files]]
+file = "settings.toml"
+hash = "44abc547172b26703037f8a7a7eb8c233717e18a56d5ce700b8b1992b48eec47"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip"
