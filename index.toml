@@ -3265,10 +3265,6 @@ hash = "f3b5042d41d7ee0c7b9487228e77b809828a4b898beba3d811f8b6dece35ef41"
 metafile = true
 
 [[files]]
-file = "options.amecsapi.txt"
-hash = "0533e864ba30b87837b986bc4b67073cdc1eff6410fedb93abf80a1753effd13"
-
-[[files]]
 file = "options.txt"
 hash = "be546ab9475ecbd70e5b216260517583f405c509a2e44373b83a94a3fbd5e086"
 preserve = true
