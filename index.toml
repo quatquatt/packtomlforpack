@@ -1831,6 +1831,11 @@ hash = "6e37a53e0cc21c40bc27956d667189c278cefe61dab2a798fd4ba39bbf741687"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "be7cd5bb98612bff05b734b897003c56dca3d943901fc4d59f2b1a86a5ee0771"
+metafile = true
+
+[[files]]
 file = "mods/armor-sound-tweak.pw.toml"
 hash = "d1cf15488169ba811cbcfb55ca44be215f076c2e38857587f73ad6495ed07c91"
 metafile = true
@@ -2583,6 +2588,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "e0bd85442d994d088e500aa85f00de10ceecd750df9dd314413fb7b705cce5e0"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
 metafile = true
 
 [[files]]
