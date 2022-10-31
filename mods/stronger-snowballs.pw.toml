@@ -1,0 +1,13 @@
+name = "Stronger Snowballs"
+filename = "StrongerSnowballs-Fabric-1.19.2-9.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e05b5ce417023ad6efe42f9dcb10984bedb9dc1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4058524
+project-id = 377548
