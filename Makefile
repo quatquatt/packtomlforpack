@@ -27,3 +27,4 @@ update-packwiz:
 	go install github.com/packwiz/packwiz@latest
 	clear
 	@echo "Packwiz has been Updated"
+git commit -am "commit message"
