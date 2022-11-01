@@ -1,0 +1,75 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = tbj/3.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = #181d20
+}
+
+customization {
+  visible = false
+  x = -1
+  action = editlogo
+  y = 56
+}
+
+customization {
+  orientation = mid-centered
+  visible = false
+  x = 0
+  action = editprogressbar
+  y = 71
+}
+
+customization {
+  path = tbj/botany-square.png
+  orientation = mid-centered
+  x = 118
+  width = 20
+  action = addtexture
+  actionid = 0ea5e640-1f9d-49ca-96ef-f38062b3dbfd1666647958145
+  y = 70
+  height = 20
+}
+
+customization {
+  path = tbj/tbj.png
+  orientation = mid-centered
+  x = 0
+  width = 263
+  action = addtexture
+  actionid = 773e8225-152c-402a-bfe5-ebfb1369b9051666648247229
+  y = -40
+  height = 97
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -97
+  textcolor = #ffffff
+  action = addtext
+  actionid = 038dc2db-5e60-408c-a37c-fd5bab20fcbe1666667035843
+  y = 75
+  scale = 1.0
+  alignment = left
+  value = Loading... %loadingprogress%%
+}
+
+customization {
+  orientation = mid-centered
+  x = -1
+  width = 257
+  actionid = d36cac32-70bd-4acb-8659-0dacf1d0404b1666667657106
+  y = 90
+  action = addcustomprogressbar
+  height = 8
+  direction = right
+  barcolor = #ffffff
+  backgroundcolor = #5c5c5c80
+}
+

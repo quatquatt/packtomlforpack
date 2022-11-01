@@ -1,0 +1,13 @@
+name = "Blossom"
+filename = "blossom-fabric-1.19-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91bbb5c4ba72961532bbe63c3ab5c1ab8603b9fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822176
+project-id = 575248

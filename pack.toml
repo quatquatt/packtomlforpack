@@ -1,0 +1,13 @@
+name = "The Botanist's Journey"
+author = "Botany"
+version = "0.0.79"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "191c82b58e9bef14d6e495deff19033b72264afcb616101e5d6d36cfe444c1bb"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"

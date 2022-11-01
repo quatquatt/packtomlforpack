@@ -1,0 +1,13 @@
+name = "Nyf's Quivers"
+filename = "nyfsquiver-Fabric-0.5.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ed54d64524873b1f385f7398cc6f14b3a576c6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4025816
+project-id = 482731
