@@ -1,0 +1,4 @@
+backend = "qt"
+tktheme = "DarkGrey9"
+qttheme = "SystemDefaultForReal"
+usegit = false

@@ -1,0 +1,13 @@
+name = "Fabric Musica"
+filename = "wraith-musica-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8ba43feaa82dd5fe74ce8c0968988cd60fcaf5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4030878
+project-id = 470571

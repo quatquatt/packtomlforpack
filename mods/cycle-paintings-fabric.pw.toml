@@ -1,0 +1,13 @@
+name = "Cycle Paintings (Fabric)"
+filename = "cyclepaintings-fabric_1.19.2-2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8da4ac795200136d905594694850eef58ef45ba1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4016002
+project-id = 531272
