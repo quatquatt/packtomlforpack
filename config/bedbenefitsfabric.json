@@ -1,7 +1,0 @@
-{
-  "restoreHealth": true,
-  "restoreFullHealth": false,
-  "healAmount": 10.0,
-  "removeBadEffects": true,
-  "removePositiveEffects": true
-}
