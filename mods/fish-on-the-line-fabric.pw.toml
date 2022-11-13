@@ -1,0 +1,13 @@
+name = "Fish On The Line (Fabric)"
+filename = "fishontheline-fabric_1.19.2-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "328c549f15adf248f7be734f52c27f10e447ff99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015925
+project-id = 530391

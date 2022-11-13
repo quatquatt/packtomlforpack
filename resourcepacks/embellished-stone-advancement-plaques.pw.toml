@@ -1,0 +1,13 @@
+name = "Embellished Stone (Advancement Plaques)"
+filename = "EmbellishedStone-1.19-1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6584109c478cd0469d6968b2fcb5a41e0860cd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836803
+project-id = 503839
