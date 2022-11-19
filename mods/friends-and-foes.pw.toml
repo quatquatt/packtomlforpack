@@ -1,13 +1,13 @@
 name = "Friends&Foes (Fabric)"
-filename = "friendsandfoes-fabric-mc1.19.2-1.5.12.jar"
+filename = "friendsandfoes-fabric-mc1.19.2-1.6.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1eb9e5ed3b08ebc18460837e2ab1df3007c26b6a"
+hash = "cc97963b4c530f22da8e0b5e123881ffaac6d69a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4060440
+file-id = 4098431
 project-id = 551364
