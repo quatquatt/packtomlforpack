@@ -2998,11 +2998,6 @@ hash = "c40fb8b97fa383adbd7a47ed9c6257191d2fede8ecadeab123caaadcf6cf15ff"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "1abc45ec5aedf9af2ac6e1a1a5bfb8f92ccafa6395a4c77c20e32adb47ee4426"
-metafile = true
-
-[[files]]
 file = "mods/merchant-markers-fabric.pw.toml"
 hash = "ffe14d0a140f7503edf3eb3137a33b503a4934e0f7d36247bd679c169f6dac37"
 metafile = true
