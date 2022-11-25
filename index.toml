@@ -2583,11 +2583,6 @@ hash = "ea57c9a912ed73e1571cad209903b6a61d06b8167f07d1e7506c1d23e1100eed"
 metafile = true
 
 [[files]]
-file = "mods/creatures-from-the-snow-fabric.pw.toml"
-hash = "f701645c142cf3f5ca49f4e86d8c3db1e50f7d377977121aa2324ec4c74b9030"
-metafile = true
-
-[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "1809c5d6c6de929511d2cf7cda78ea9932dd9676a1cbab8292947f3b39cfd6f2"
 metafile = true
