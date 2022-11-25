@@ -2448,11 +2448,6 @@ hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
-file = "mods/cem-0-7-1-s8-1-19.pw.toml"
-hash = "197e317f37c04240cab34229c78618e20d8764e5c3d43e7ae80565aae0613fd7"
-metafile = true
-
-[[files]]
 file = "mods/chalk-fabric.pw.toml"
 hash = "56a7b25d5c90a7c976967e066c32633bde1dcbcb79476c8a8636dabbdd30fc99"
 metafile = true
@@ -2585,6 +2580,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ea57c9a912ed73e1571cad209903b6a61d06b8167f07d1e7506c1d23e1100eed"
+metafile = true
+
+[[files]]
+file = "mods/creatures-from-the-snow-fabric.pw.toml"
+hash = "f701645c142cf3f5ca49f4e86d8c3db1e50f7d377977121aa2324ec4c74b9030"
 metafile = true
 
 [[files]]
@@ -3436,14 +3436,6 @@ preserve = true
 file = "resourcepacks/Fancy,+GUI+Overhaul+v0.1.2.7.zip"
 hash = "afdf52d928cde3db836d2ec64ae36cd6051c86759f4e42ecd9459da306c21e1c"
 preserve = true
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.7_Add_S8.zip"
-hash = "ef4ea11fee18092c6925f7868ac81badb2b70c9f2c637efe07ceff60a46762c2"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.7_S8.zip"
-hash = "5a1f3b7d3752a30fc650b5aa9bbf12f48bbe39d48b50fa858f80aa5cfe05a537"
 
 [[files]]
 file = "resourcepacks/Lush+Leaves.zip"
