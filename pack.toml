@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "b02d880a9341507f91b78f3b58001761fdf7a9961cb79f6d29c8f4a793f5e1c1"
-=======
-hash = "568bed7228ad1593033a45c2ba912b5f1f1a7157ffc5860c363c4a1a7052b80f"
->>>>>>> parent of aef0644 (changes pt 2)
+hash = "c5d666c1d457f042af51ab96df42f8e7ce730c33650bd199c0ee83322a14b3df"
 
 [versions]
 fabric = "0.14.10"

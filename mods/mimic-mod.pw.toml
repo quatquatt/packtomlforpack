@@ -1,13 +1,13 @@
 name = "Mimic Mod"
-filename = "Mimic-fabric-1.19-1.31.1.jar"
+filename = "Mimic-fabric-1.19.1-1.2.38.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dfa44b58e5be6b57188fd4f7d4eec4f4220385aa"
+hash = "d8ac1bc6029f6e3333912441726989bb8628177f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3864467
+file-id = 4110574
 project-id = 475842
