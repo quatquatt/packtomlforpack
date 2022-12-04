@@ -1438,10 +1438,12 @@ preserve = true
 [[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+preserve = true
 
 [[files]]
 file = "config/craftpresence.json"
 hash = "ebe7430a30f4cbaf2a7823c311137ac666ba430b4ccce4cd77e6535b1d549f23"
+preserve = true
 
 [[files]]
 file = "config/craftpresence.properties"
@@ -1856,6 +1858,7 @@ preserve = true
 [[files]]
 file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
+preserve = true
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -1960,6 +1963,7 @@ preserve = true
 [[files]]
 file = "config/midnightcontrols.json"
 hash = "74c2788985fce5d6ecee5604501499c4c7189974df8a9f64efb9084837dbe4bf"
+preserve = true
 
 [[files]]
 file = "config/midnightlib.json"
@@ -2074,6 +2078,7 @@ preserve = true
 [[files]]
 file = "config/raised.json"
 hash = "99ed2577ea317fd1d4b8824c4c94bf53895c9ea6f37f93a0cb74cff008fb7ee8"
+preserve = true
 
 [[files]]
 file = "config/repurposed_structures-fabric/biome_dimension_allow_disallow_configs.json5"
@@ -2138,6 +2143,7 @@ preserve = true
 [[files]]
 file = "config/sodium-extra-options.json"
 hash = "5227ef98b6b70385e81d532eb27d8035471f9403f74e8665f0db667d95652e84"
+preserve = true
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -2217,14 +2223,17 @@ preserve = true
 [[files]]
 file = "config/voicechat/username-cache.json"
 hash = "8fb992c6ffc1e6db905589e7a3825375c40e0e1473236dff939f577f43990261"
+preserve = true
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "12a057ff98ebf6ec65bf06efa5df92349b30e3b865f9566ade6c68bf62ef063c"
+preserve = true
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "608879e09c21a83bea1264e11a819ec22ffb68d596b884b5896095cb91e27308"
+preserve = true
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -2259,14 +2268,17 @@ preserve = true
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
 hash = "5a1b0ba7bbe3ee2408116db397e5ee69071104609ae55724fa2e633597c10a17"
+preserve = true
 
 [[files]]
 file = "essential/config.toml"
 hash = "f3f5331170fd1263c8530d5a0aebe6303c05455e5143f7dc561a674ec557194c"
+preserve = true
 
 [[files]]
 file = "essential/expFeatures.json"
 hash = "abc57df8f8c65cfdf9da6114b25288c06fdd69b5824f08bbc8a496e207e1c572"
+preserve = true
 
 [[files]]
 file = "index.toml.bak"
@@ -3480,10 +3492,12 @@ preserve = true
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.7_Add_S8.zip"
 hash = "ef4ea11fee18092c6925f7868ac81badb2b70c9f2c637efe07ceff60a46762c2"
+preserve = true
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.7_S8.zip"
 hash = "5a1f3b7d3752a30fc650b5aa9bbf12f48bbe39d48b50fa858f80aa5cfe05a537"
+preserve = true
 
 [[files]]
 file = "resourcepacks/Lush+Leaves.zip"
@@ -3535,6 +3549,7 @@ hash = "f261d226ffcb822e0d4240a6592cca19259d9a6b844f1645bb3d65c3203bf4aa"
 [[files]]
 file = "shaderpacks/options.amecsapi.txt"
 hash = "964d63a9cf6a1954ad2980aeba3ef809273d9cca48a2fff98b57259eff44a211"
+preserve = true
 
 [[files]]
 file = "tbj/3.png"
