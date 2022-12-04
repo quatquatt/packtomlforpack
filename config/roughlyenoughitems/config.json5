@@ -59,8 +59,10 @@
 		"filtering": {
 			"shouldFilterDisplays": true,
 			"filteringRules": [
-				"{id:\"roughlyenoughitems:manual\",rule:{}}"
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			],
+			"filteringQuickCraftCategories": { },
 			"filteredStacks": []
 		},
 		"enableJeiCompatibilityLayer": true,
@@ -129,7 +131,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "LIGHT",
+		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",

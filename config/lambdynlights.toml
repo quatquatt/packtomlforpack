@@ -86,6 +86,7 @@ mode = "fancy"
 				hoglin = true
 				ender_dragon = true
 				endermite = true
+				potion = true
 
 			[light_sources.settings.entities.earthtojavamobs]
 				wooly_cow = true
@@ -111,6 +112,7 @@ mode = "fancy"
 				amber_chicken = true
 				sooty_pig = true
 				long_nosed_sheep = true
+				sunset_cow = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				badger = true
@@ -176,6 +178,7 @@ mode = "fancy"
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 				mauler = true
+				copper_golem = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true

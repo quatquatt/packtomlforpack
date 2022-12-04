@@ -1377,7 +1377,7 @@ preserve = true
 
 [[files]]
 file = "config/cem.conf"
-hash = "5264fcf9f29194bb2a4728b5b9d7d63f1c2328d915abf6e9d4edebcdf47720e3"
+hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 preserve = true
 
 [[files]]
@@ -1427,13 +1427,21 @@ preserve = true
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "aed127745da20532613cd66c62a60fef182ed7873f12a7d32486317a4ca9b3b7"
+hash = "f2d2dac6ddb96f149bd1da9dbff5c41eb980da9522ed3ba7b732ea7cb202b596"
 preserve = true
 
 [[files]]
 file = "config/connectivity.json"
 hash = "a17f84d0c9a37e9ea618679133dc4498c270753517e12974cb9e07611a716201"
 preserve = true
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "ebe7430a30f4cbaf2a7823c311137ac666ba430b4ccce4cd77e6535b1d549f23"
 
 [[files]]
 file = "config/craftpresence.properties"
@@ -1567,7 +1575,7 @@ preserve = true
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "ea4dd0f9631397af94c742376b45bcc1c5b61662d3fac2b6743717004ff3a364"
+hash = "7437b40b0ec791cc26cf283110fc0e9ac014de16da27eb6a3a8859568efb68eb"
 preserve = true
 
 [[files]]
@@ -1617,7 +1625,7 @@ preserve = true
 
 [[files]]
 file = "config/fallingleaves.json"
-hash = "2b2758e9b3a92c4c9248b678574ce62dbdc8be6ea44d1088594cab9c3d190ef3"
+hash = "ab45b528b6c40e8c28d2f0183338522c766769d1533059ceaa24d50fc2978084"
 preserve = true
 
 [[files]]
@@ -1846,6 +1854,10 @@ hash = "89a075c512f62a8a9bf149a02ff6e50056c2b297eaa90c4b9aea352f65288065"
 preserve = true
 
 [[files]]
+file = "config/fsb-interop.json"
+hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "1e7441451b8852601ce3327ee30a10128c53d676c9636eb9601b034fcdce5ba9"
 preserve = true
@@ -1892,7 +1904,7 @@ preserve = true
 
 [[files]]
 file = "config/iris.properties"
-hash = "2ed2e66471beb4a0e28410eaa2008143be56ab650a079efd92eb64a1ca23352e"
+hash = "fde77363589d6aef23e57239f135ba5a9c3807554dfaf6e3b96b6a538de6285b"
 preserve = true
 
 [[files]]
@@ -1927,7 +1939,7 @@ preserve = true
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "0ec39c7023223abf819ffd9149d62aaf2ecfd8f6d1ae65401e6999d6d6380024"
+hash = "c444c338cb0c00b7a11beba15501c7dfda3a55488f85777f7c85dfe7e9d71349"
 preserve = true
 
 [[files]]
@@ -1947,7 +1959,7 @@ preserve = true
 
 [[files]]
 file = "config/midnightcontrols.json"
-hash = "5d73bc34f102c36c2b0f659bb6b4a16aeaf4ea636126fd0d1d4b3be0c7a3043a"
+hash = "74c2788985fce5d6ecee5604501499c4c7189974df8a9f64efb9084837dbe4bf"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -2060,6 +2072,10 @@ hash = "31b4f5e6090b4048858edfcf45f842240d031c580e600b91b5708824bfb710ec"
 preserve = true
 
 [[files]]
+file = "config/raised.json"
+hash = "99ed2577ea317fd1d4b8824c4c94bf53895c9ea6f37f93a0cb74cff008fb7ee8"
+
+[[files]]
 file = "config/repurposed_structures-fabric/biome_dimension_allow_disallow_configs.json5"
 hash = "42d155803ba7f3e95146e2c9c5b773f85b81bb7a6a885961facf4c5247891e39"
 preserve = true
@@ -2101,7 +2117,7 @@ preserve = true
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "ced43bf139d7b4a84cb944eaf7c785af9a8930d013a17579bf69ec3da5227acf"
+hash = "1f725a5c2bf7595ad86426d20ee488b7a1e025ec4a0fe483291a5a64590ec7e5"
 preserve = true
 
 [[files]]
@@ -2118,6 +2134,10 @@ preserve = true
 file = "config/skinlayers.json"
 hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
 preserve = true
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "5227ef98b6b70385e81d532eb27d8035471f9403f74e8665f0db667d95652e84"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -2195,6 +2215,18 @@ hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 preserve = true
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "8fb992c6ffc1e6db905589e7a3825375c40e0e1473236dff939f577f43990261"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "12a057ff98ebf6ec65bf06efa5df92349b30e3b865f9566ade6c68bf62ef063c"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "608879e09c21a83bea1264e11a819ec22ffb68d596b884b5896095cb91e27308"
+
+[[files]]
 file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 preserve = true
@@ -2227,6 +2259,14 @@ preserve = true
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
 hash = "5a1b0ba7bbe3ee2408116db397e5ee69071104609ae55724fa2e633597c10a17"
+
+[[files]]
+file = "essential/config.toml"
+hash = "f3f5331170fd1263c8530d5a0aebe6303c05455e5143f7dc561a674ec557194c"
+
+[[files]]
+file = "essential/expFeatures.json"
+hash = "abc57df8f8c65cfdf9da6114b25288c06fdd69b5824f08bbc8a496e207e1c572"
 
 [[files]]
 file = "index.toml.bak"
@@ -3429,7 +3469,7 @@ preserve = true
 
 [[files]]
 file = "options.txt"
-hash = "65abd486d531714e6dd0fea29db4910d8906b698768eea1c628695b658a240cf"
+hash = "0a89c20e76e870fd7bff68de628403ed6e42373f82567b0034a62f74b9197288"
 preserve = true
 
 [[files]]
@@ -3491,6 +3531,10 @@ hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
 [[files]]
 file = "shaderpacks/Solas+Shader+V1.2.zip"
 hash = "f261d226ffcb822e0d4240a6592cca19259d9a6b844f1645bb3d65c3203bf4aa"
+
+[[files]]
+file = "shaderpacks/options.amecsapi.txt"
+hash = "964d63a9cf6a1954ad2980aeba3ef809273d9cca48a2fff98b57259eff44a211"
 
 [[files]]
 file = "tbj/3.png"

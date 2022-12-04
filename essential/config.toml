@@ -1,0 +1,83 @@
+
+[general]
+
+	[general.online_status]
+		show_essential_indicator_on_tab = true
+		show_essential_indicator_on_nametags = false
+
+	[general.general]
+		streamer_mode = false
+		modcore_warning = true
+		prompt_when_visiting_trusted_hosts = false
+		essential_gui_scale = 0
+		timestamps_format = 0
+		gui_scale = true
+
+	[general.experience]
+		essential_full = true
+		enable_essential = true
+		show_menus = true
+		essential_menu_layout = 1
+		quick_action_bar = true
+
+[privacy]
+
+	[privacy.general]
+		display_current_server = false
+		friend_privacy_settings = 0
+
+[notifications]
+
+	[notifications.general]
+		online_friend_alert = true
+		disable_all_notifications = false
+		message_notifications = true
+		group_message_notifications = true
+		message_sound = true
+		update_notifications = false
+		host_world_ip_warning = true
+		screeenshot_toast_duration = 1
+
+[quality_of_life]
+
+	[quality_of_life.zoom]
+		smooth_camera_when_zoomed = false
+		smooth_zoom_animation = false
+		toggle_to_zoom = false
+
+	[quality_of_life.general]
+		auto_refresh_session = true
+
+	[quality_of_life.discord_integration]
+		set_activity_status_on_discord = false
+		allow_ask_to_join = true
+		show_username_and_avatar = false
+		show_current_server = false
+
+	[quality_of_life.screenshots]
+		essential_screenshots = true
+		screenshot_sounds = true
+		vanilla_screenshot_message = false
+
+	[quality_of_life.accessibility]
+		enlarge_chat_metadata = false
+
+[cosmetics]
+
+	[cosmetics.general]
+		disable_cosmetics = true
+		hide_cosmetics_on_server_skins = true
+		cosmetic_armor_handling = 0
+		disable_cosmetics_in_inventory = true
+		show_my_armor = 0
+		"show_other_players'_armor" = 0
+		emote_perspective = 1
+
+[hidden]
+
+	[hidden.hidden]
+		screenshotbrowseritemsperrow = 3
+		wardrobesortoption = 1
+		wardrobesortoptionmigration = true
+		spspinnedgamerules = ""
+
