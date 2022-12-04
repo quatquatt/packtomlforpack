@@ -1,13 +1,13 @@
 name = "Fastload"
-filename = "Fastload+1.19.2-2.4.2.jar"
+filename = "Fastload+1.19.2-2.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "18a6a264f8ac05c90ed5a6909d7dff82d09be9f3"
+hash = "99ade3614045df940b1bd0da16ff09f5f7c38d5f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4105427
+file-id = 4128655
 project-id = 630620

@@ -1,0 +1,7 @@
+name = "cem-0.7.1_s8_1.19"
+filename = "cem-0.7.1_S8_1.19.jar"
+
+[download]
+url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_8/cem-0.7.1_S8_1.19.jar"
+hash-format = "sha1"
+hash = "805f07865c131983c71fcdc73839da01b39b3e70"
