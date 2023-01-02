@@ -1,13 +1,13 @@
 name = "Data Attributes"
-filename = "data-attributes-1.2.7.jar"
+filename = "data-attributes-1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1631e273b62d76bc06a3287d8f37a3b7c4847bdf"
+hash = "5af035ff85a9ea6767ffbac7eca15908602d454f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3955434
+file-id = 4133665
 project-id = 514734

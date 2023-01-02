@@ -1,13 +1,13 @@
 name = "Your Reputation"
-filename = "your-reputation-0.1.6+1.19.jar"
+filename = "your-reputation-0.2.0+jade.1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c720331819184dfa4ac0205c6f483aba4276d26"
+hash = "cad3f70d1847b7c8a27bac0cb5e25f18258ae572"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3942033
+file-id = 4275998
 project-id = 579757
